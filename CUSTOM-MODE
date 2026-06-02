@@ -1,3 +1,6 @@
+--// hello, you can copy and paste into something and edit it! and sorry for copying the hollow mode please forgive me
+
+
 local spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors/Entity%20Spawner/V2/Source.lua"))()
 local Lighting = game:GetService("Lighting")
 local Players = game:GetService("Players")
