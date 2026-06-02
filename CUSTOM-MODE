@@ -206,7 +206,7 @@ local function SpawnDepth()
     local entity = spawner.Create({
         Entity = {
             Name = "Dacer",
-            Asset = "https://github.com/gamerpizz/CUSTOM-ENTITY-DOORS/blob/main/Dacer.rbxm?raw=true",
+            Asset = "https://github.com/RegularVynixu/Utilities/raw/main/Doors/Entity%20Spawner/Assets/Entities/Rush.rbxm",
             HeightOffset = 0
         },
         Lights = { Flicker = { Enabled = true, Duration = 3 }, Shatter = true, Repair = false },
